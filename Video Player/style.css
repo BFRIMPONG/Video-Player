@@ -1,5 +1,5 @@
 body{
-    background-color: wheat;
+    background-color:#8dd5f7;
     text-align: center;
     align-items: center;
     font-size: x-large;
@@ -7,4 +7,18 @@ body{
     margin: auto;
     max-width: 960px;
     background-image: -webkit-gradient;
+    align-content: center;
+    flex: auto;
+    ;
+}
+
+td video{
+    width: 317px;
+    align-content: center;
+    align-items: center;
+}
+
+td a{
+    align-content: center;
+    align-items: center;
 }
